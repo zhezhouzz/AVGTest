@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVGTest", "AVGTest.csproj", "{AD82FFC2-7360-3877-D608-0D3C30EDAD5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVGTest.Plugins", "AVGTest.Plugins.csproj", "{62895CEE-11EA-7B79-DB25-D30FBEC5983B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVGTest.Editor.Plugins", "AVGTest.Editor.Plugins.csproj", "{B568ED81-6C61-9C05-E7FA-0694887F5A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD82FFC2-7360-3877-D608-0D3C30EDAD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD82FFC2-7360-3877-D608-0D3C30EDAD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD82FFC2-7360-3877-D608-0D3C30EDAD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD82FFC2-7360-3877-D608-0D3C30EDAD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62895CEE-11EA-7B79-DB25-D30FBEC5983B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62895CEE-11EA-7B79-DB25-D30FBEC5983B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62895CEE-11EA-7B79-DB25-D30FBEC5983B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62895CEE-11EA-7B79-DB25-D30FBEC5983B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B568ED81-6C61-9C05-E7FA-0694887F5A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B568ED81-6C61-9C05-E7FA-0694887F5A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B568ED81-6C61-9C05-E7FA-0694887F5A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B568ED81-6C61-9C05-E7FA-0694887F5A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
